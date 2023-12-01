@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Graphs</string>
+    <string name="add_graph">Create graph</string>
+    <string name="edit_graph">Edit graph</string>
+    <string name="add_node">Add point</string>
+    <string name="add_link">Add link</string>
+    <string name="manvelyan_david_403">Manvelyan David 403</string>
+    <string name="new_text">new</string>
+    <string name="edit_text">edit</string>
+    <string name="delete_text">delete</string>
+    <string name="copy_text">copy</string>
+    <string name="create_account">Create account</string>
+</resources>
